@@ -1,5 +1,8 @@
 package main
 
+import "github.com/xugeiyangguang/repos2"
+
 func main()  {
-	print("hello world!")
+	repos2.CallMe()
+
 }
